@@ -1,3 +1,3 @@
 # Autism-Prediction
 ## Prediction Using Different algorithms
-Algorithum used- CNN, Randum Forest Classifier and SVM
+Algorithum used- CNN, Random Forest Classifier and SVM
